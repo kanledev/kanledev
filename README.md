@@ -1,16 +1,43 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcyK5G/giphy.gif" width="35"> Salut, moi c'est Kan
 
-<!--
-**kanledev/kanledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Étudiant en MIASHS @ Paris 1 Panthéon-Sorbonne
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### 💻 Développement & Base de données
+[![My Skills](https://skillicons.dev/icons?i=py,lua,cpp,js,react,vite,postgres,html,css)](https://skillicons.dev)
+
+### 🎨 Design & Post-Production
+[![Creative Skills](https://skillicons.dev/icons?i=figma,ps,pr,ae,discord)](https://skillicons.dev)
+> **Note :** Je maîtrise aussi **DaVinci Resolve** .
+
+---
+
+## 📊 En quelques chiffres...
+| Statut | Quantité |
+| :--- | :--- |
+| ✅ **Projets finalisés** | **89** (Full-stack, Scripts, Designs) |
+| 🚀 **En développement** | **12** (Work in progress...) |
+| 🏛 **Formation** | MIASHS (Maths, Info, Sciences Humaines) |
+
+---
+
+## 🚀 Projets notables
+
+* 📱 **E-Commerce & Paiement** : Développement d'une application complète de vente de produits de consommation avec intégration de systèmes de paiement sécurisés.
+* 🎮 **Serveur ATLAS (GMod)** : Gestion et développement complet (Scripts Lua personnalisés, optimisation serveur et UI).
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Kan" />
+</p>
+
+---
+
+## 📫 Me contacter
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](LIEN_VERS_TON_SERVEUR_OU_PROFIL)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
