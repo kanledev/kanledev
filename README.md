@@ -1,37 +1,56 @@
-# Salut ! moi c'est Kan 👋
-
-### 🎓 Étudiant en MIASHS @ Paris 1 Panthéon-Sorbonne
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Développement & Base de données
-[![My Skills](https://skillicons.dev/icons?i=py,lua,cpp,js,react,vite,postgres,html,css)](https://skillicons.dev)
-
-### 🎨 Design & Post-Production
-[![Creative Skills](https://skillicons.dev/icons?i=figma,ps,pr,ae,discord)](https://skillicons.dev)
-> **Note :** Je maîtrise aussi **DaVinci Resolve** .
+# KAN | Full-Stack Dev & Creative Editor
+### 🎓 MIASHS Student @ La Sorbonne Paris 1
+*Explorer l'intersection entre les algorithmes mathématiques et l'esthétique visuelle.*
 
 ---
 
-## 📊 En quelques chiffres...
-| Statut | Quantité |
-| :--- | :--- |
-| ✅ **Projets finalisés** | **89** (Full-stack, Scripts, Designs) |
-| 🚀 **En développement** | **12** (Work in progress...) |
-| 🏛 **Formation** | MIASHS (Maths, Info, Sciences Humaines) |
+## ⚡ Quick Overview
+- 🛠 **Polyvalence :** Du script Lua bas niveau au montage dynamique sur After Effects.
+- 📈 **Productivité :** Plus de **190 projets** (89 terminés / 12 en incubation).
+- 🏛 **Formation :** Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales.
 
 ---
 
-## 🚀 Projets notables
+## 💻 Tech Stack & Ecosystem
 
-* 📱 **E-Commerce & Paiement** : Développement d'une application complète de vente de produits de consommation avec intégration de systèmes de paiement sécurisés.
-* 🎮 **Serveur ATLAS (GMod)** : Gestion et développement complet (Scripts Lua personnalisés, optimisation serveur et UI).
+### 🟢 Programming & Logic
+`Python` • `Lua` • `C++` • `JavaScript` • `React` • `Vite` • `PostgreSQL`
+> ![My Skills](https://skillicons.dev/icons?i=py,lua,cpp,js,react,vite,postgres&theme=dark)
 
+### 🎬 Creative Suite & Workflow
+`Photoshop` • `After Effects` • `Premiere Pro` • `DaVinci Resolve` • `Figma`
+> ![Creative Skills](https://skillicons.dev/icons?i=ps,ae,pr,figma,discord,vscode,cloudflare&theme=dark)
 
 ---
 
-## 📫 Me contacter
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](kandsc)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aura.fr.contact@gmail.com)
+## 📁 Key Repositories & Works
+
+### 💳 Financial Tech
+**E-Commerce Payment Gateway** *Système de vente et de transaction sécurisé pour produits de grande consommation.*
+
+### 🎮 Gaming Environment
+**ATLAS Project (Garry's Mod)** *Architecture complète d'un serveur : optimisation du kernel Lua et UI/UX sur mesure.*
+
+---
+
+## 📊 Activity Metrics
+```text
+Calcul en cours...
+[██████████████████████░░] 89% Projects Completed
+[██████████░░░░░░░░░░░░░░] 45% Academic Year
+
+```
+
+
+## 📫 Connect with me
+
+<p align="left">
+<a href="mailto:aura.fr.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.gg/kandsc"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-5865F2%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" /></a>
+</p>
+
+---
+
+<p align="right">
+<i>"Mathematics is the music of reason."</i>
+</p>
