@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcyK5G/giphy.gif" width="35"> Salut, moi c'est Kan
+# Salut ! moi c'est Kan 👋
 
 ### 🎓 Étudiant en MIASHS @ Paris 1 Panthéon-Sorbonne
 
@@ -39,5 +39,5 @@
 ---
 
 ## 📫 Me contacter
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](LIEN_VERS_TON_SERVEUR_OU_PROFIL)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](kandsc)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aura.fr.contact@gmail.com)
