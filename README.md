@@ -29,12 +29,6 @@
 * 📱 **E-Commerce & Paiement** : Développement d'une application complète de vente de produits de consommation avec intégration de systèmes de paiement sécurisés.
 * 🎮 **Serveur ATLAS (GMod)** : Gestion et développement complet (Scripts Lua personnalisés, optimisation serveur et UI).
 
----
-
-## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Kan" />
-</p>
 
 ---
 
